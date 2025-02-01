@@ -1,3 +1,8 @@
+"""
+This script generates a random band name by selecting 2 or 3 words 
+from a predefined list of words. The band name is printed to the console.
+"""
+
 import random
 
 # print("Create a band name:")

@@ -1,3 +1,8 @@
+"""
+This module is to pratice if statements with the example:
+if the customer can ride a rollercoaster
+"""
+
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm?"))
 

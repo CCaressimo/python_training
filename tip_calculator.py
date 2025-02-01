@@ -1,3 +1,7 @@
+"""
+This module is to help users evenlly split bills with others
+"""
+
 # print("nunber: " + str(len(input("enter"))))
 
 print("Welcome to the tip calculator!")
