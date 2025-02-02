@@ -30,5 +30,5 @@ band_words = [
 num_words = int(input("How many words would you like your band name be?\n"))
 
 band_name = random.sample(band_words, num_words)
-
+print(band_name)
 print(" ".join(band_name))
