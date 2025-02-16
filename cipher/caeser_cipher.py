@@ -1,4 +1,7 @@
-alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+"""Create an encryption app using a list and loops"""
+alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h',
+            'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 
+            'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
 def caeser(original_text, shift_amount, encode_or_decode):
     output_text = ""
