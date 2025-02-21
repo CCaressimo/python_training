@@ -77,5 +77,5 @@ def play_game():
 
 while input("Would you like to play a game of Blackjack? 'y' or 'n'? ").lower() == 'y':
     system("clear")
-    print(BLACKJACK[0])
+    print(BLACKJACK)
     play_game()
